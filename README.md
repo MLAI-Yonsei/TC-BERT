@@ -15,7 +15,7 @@
 * `run_ft.sh`, `run_rec.sh`: sample script for fine-tuning and recommendation
 
 ## Requirements
-* Model checkpoints, datasets, and other resources used for the project are available through the MLAI@Yonsei Google Drive > Lab Meeting Slides > Individual Meetings > Changdae Oh > TC-BERT
+* Model checkpoints, datasets, and other resources used for the project are available through the [MLAI@Yonsei Google Drive > Lab Meeting Slides > Individual Meetings > Changdae Oh > TC-BERT](https://drive.google.com/drive/folders/1NtChpBcV-_42ujvrV0YELQ4Mmfg61Jwh?usp=sharing)
 * Data
   * `data/total_v2.1.csv` is required for fine-tuning and `data/etri_changdae_AFTER.csv` for the evaluation of fine-tuning
   * `data/inference_sampleset.csv` is required for the inference of document classification
