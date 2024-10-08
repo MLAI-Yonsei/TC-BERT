@@ -1,5 +1,5 @@
-# TC-BERT: Large-Scale Language Model for Korean Technology Commercialization Documents
-* Hyeji Hwang*, Changdae Oh*, Eunkyeong Lee, Taero Kim, Yewon Kim, Yunjeong Choim Sungjin Kim, Hosik Choi, and Kyungwoo Song, preprint 2022 (research project funded by [KISTI](https://www.kisti.re.kr/eng/))
+# TC-BERT: Large-Scale Language Model for Korean Technology Commercialization Documents, The Journal of Supercomputing 2024
+* Taero Kim*, Changdae Oh*, Hyeji Hwang*, Eunkyeong Lee, Yewon Kim, Yunjeong Choim Sungjin Kim, Hosik Choi, and Kyungwoo Song (research project funded by [KISTI](https://www.kisti.re.kr/eng/))
 
 
 ## Organization
